@@ -35,7 +35,7 @@ header{
 }
 
 .logo h1 b{
-    color: #1eff00;
+    color: #ff709f;
 }
 
 
@@ -119,7 +119,7 @@ header{
     height: 700px;
     position: relative;
     margin-top: 80px;
-    background-image: url(../IMG/62-625094_romantic-love-valentine-day.jpg);
+    background-image: url(../IMG/WhatsApp\ Image\ 2022-10-26\ at\ 11.47.34\ AM.jpeg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -129,7 +129,6 @@ header{
     content: '';
     width: 100%;
     height: 100%;
-    background: rgba(26, 248, 6, 0.932);
     position: absolute;
     top: 0;
     left: 0;
@@ -188,7 +187,7 @@ article:before{
     position: absolute;
     top: 0;
     left: 0;
-    background: #4ffc1b;
+    background: #121312;
 }
 
 article h1{
