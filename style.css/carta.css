@@ -211,6 +211,10 @@ article p{
     margin-top: 20px;
 }
 
+article video{
+    width: 90%;
+    margin-top: 20px;
+
 /*Footer - pie de pagina*/
 
 .container-footer{
